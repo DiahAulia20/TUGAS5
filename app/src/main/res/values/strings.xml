@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TUGAS</string>
+    <string name="image">img</string>">
+    <string name="eTusername">Username</string>">
+    <string name="eTemail">Email</string>">
+    <string name="eTpassword">Password</string>">
+    <string name="eTconfirmpass">Confirm Password</string>">
+
+
+
+    //FIRST PAGE
+    <string name="btngetstartM">Get Started</string>
+    <string name="tVcapM">This App is For</string>
+    <string name="tVcapM1">YOU</string>
+
+    //LOGIN PAGE
+    <string name="tVcapLP1">WELCOME BACK!</string>
+    <string name="tVcapLP2">Happy to see you again</string>
+    <string name="tVcapLP3">Login to your Account</string>
+    <string name="tVforgotpassLP">Forgot Password?</string>
+    <string name="tVhaveaccLP">Don\'t have account?</string>
+    <string name="btnloginLP">SIGN IN</string>
+    <string name="tVsigninwithLP">SIGN IN WITH</string>
+
+    //REGISTER PAGE
+    <string name="tvcapRP1">JOIN US!!</string>
+    <string name="tvcapRP2">to get started with our app</string>
+    <string name="tvcapRP3">Create an Account</string>
+    <string name="tvcapRP4">Already have an account?</string>
+    <string name="btnregRP">SIGN UP</string>
+
+    //FORGOT PASSWORD PAGE
+    <string name="tVcapFPP1">Forgot your password?</string>
+    <string name="tVcapFPP2">Please enter your email address</string>
+    <string name="tVcapFPP3">To receive a link to create a new password</string>
+    <string name="btnsendFPP">SEND</string>
+
+    //HOME PAGE
+    <string name="tVcapHP">Home</string>
+    <string name="eTpenerimaHP">Penerima</string>
+    <string name="eTsubjekHP">Subjek</string>
+    <string name="eTpesanHP">Pesan</string>
+    <string name="btnkirimHP">Kirim</string>
+
+</resources>
