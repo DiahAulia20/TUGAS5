@@ -4,7 +4,6 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import com.example.tugas.databinding.ActivityHomeBinding
-import com.example.tugas.databinding.ActivityLoginBinding
 import com.example.tugas.databinding.ActivityRegisterBinding
 
 class RegisterActivity : ComponentActivity() {

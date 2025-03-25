@@ -39,6 +39,14 @@
         </intent-filter>
 
         </activity>
+        <activity
+            android:name=".ForgotpassActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+
+        </activity>
 
         <activity
             android:name=".HomeActivity"
@@ -48,6 +56,8 @@
             </intent-filter>
 
         </activity>
+
+
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
