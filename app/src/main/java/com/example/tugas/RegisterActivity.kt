@@ -3,7 +3,6 @@ package com.example.tugas
 import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
-import com.example.tugas.databinding.ActivityHomeBinding
 import com.example.tugas.databinding.ActivityRegisterBinding
 
 class RegisterActivity : ComponentActivity() {
@@ -20,7 +19,7 @@ class RegisterActivity : ComponentActivity() {
         }
 
         binding.button.setOnClickListener {
-            val intent = Intent(this, ActivityHomeBinding::class.java)
+            val intent = Intent(this, HomeActivity::class.java)
             startActivity(intent)
         }
     }

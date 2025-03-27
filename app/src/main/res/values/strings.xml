@@ -37,9 +37,15 @@
 
     //HOME PAGE
     <string name="tVcapHP">Home</string>
-    <string name="eTpenerimaHP">Penerima</string>
-    <string name="eTsubjekHP">Subjek</string>
-    <string name="eTpesanHP">Pesan</string>
-    <string name="btnkirimHP">Kirim</string>
+    <string name="btnTugas3">TUGAS 3</string>
+    <string name="btnTugas4">TUGAS 4</string>
+
+    //TUGAS 3 PAGE
+    <string name="tVcapT3">TUGAS 3</string>
+    <string name="eTpenerima">Recipient</string>
+    <string name="eTsubjek">Subject</string>
+    <string name="eTpesan">Message</string>
+    <string name="btnkirim">SEND</string>
+    <string name="todo">TODO</string>
 
 </resources>

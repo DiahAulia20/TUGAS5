@@ -1,6 +1,5 @@
 package com.example.tugas
 
-import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import com.example.tugas.databinding.ActivityForgotpwBinding
@@ -13,6 +12,5 @@ class ForgotpassActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         binding = inflate(layoutInflater)
         setContentView(binding.root)
-
     }
 }

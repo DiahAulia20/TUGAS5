@@ -37,15 +37,14 @@
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
         </intent-filter>
-
         </activity>
+
         <activity
             android:name=".ForgotpassActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
-
         </activity>
 
         <activity
@@ -55,6 +54,14 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
 
+        </activity>
+
+        <activity
+            android:name=".Tugas3Activity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
         </activity>
 
 
