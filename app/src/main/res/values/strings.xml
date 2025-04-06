@@ -6,14 +6,12 @@
     <string name="eTpassword">Password</string>">
     <string name="eTconfirmpass">Confirm Password</string>">
 
-
-
-    //FIRST PAGE
+    <!-- FIRST PAGE -->
     <string name="btngetstartM">Get Started</string>
     <string name="tVcapM">This App is For</string>
     <string name="tVcapM1">YOU</string>
 
-    //LOGIN PAGE
+    <!-- LOGIN PAGE -->
     <string name="tVcapLP1">WELCOME BACK!</string>
     <string name="tVcapLP2">Happy to see you again</string>
     <string name="tVcapLP3">Login to your Account</string>
@@ -22,30 +20,37 @@
     <string name="btnloginLP">SIGN IN</string>
     <string name="tVsigninwithLP">SIGN IN WITH</string>
 
-    //REGISTER PAGE
+    <!-- REGISTER -->
     <string name="tvcapRP1">JOIN US!!</string>
     <string name="tvcapRP2">to get started with our app</string>
     <string name="tvcapRP3">Create an Account</string>
     <string name="tvcapRP4">Already have an account?</string>
     <string name="btnregRP">SIGN UP</string>
 
-    //FORGOT PASSWORD PAGE
+    <!-- FORGOT PASSWORD PAGE -->
     <string name="tVcapFPP1">Forgot your password?</string>
     <string name="tVcapFPP2">Please enter your email address</string>
     <string name="tVcapFPP3">To receive a link to create a new password</string>
     <string name="btnsendFPP">SEND</string>
 
-    //HOME PAGE
+    <!-- HOME PAGE -->
     <string name="tVcapHP">Home</string>
     <string name="btnTugas3">TUGAS 3</string>
     <string name="btnTugas4">TUGAS 4</string>
+    <string name="btnbacklogin">Back to Login Page</string>
 
-    //TUGAS 3 PAGE
+    <!-- TUGAS 3 PAGE  -->
     <string name="tVcapT3">TUGAS 3</string>
     <string name="eTpenerima">Recipient</string>
     <string name="eTsubjek">Subject</string>
     <string name="eTpesan">Message</string>
     <string name="btnkirim">SEND</string>
     <string name="todo">TODO</string>
+    <string name="planet_name">PLANET NAME</string>
+
+    <!-- TUGAS 4 PAGE  -->
+    <string name="tVcapT4">Urutan Planet di Tata Surya</string>
+
+
 
 </resources>

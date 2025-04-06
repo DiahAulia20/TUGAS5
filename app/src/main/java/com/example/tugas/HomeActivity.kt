@@ -18,10 +18,16 @@ class HomeActivity : ComponentActivity() {
             startActivity(intent)
         }
 
-        //btnTugas4.setOnClickListener {
-        //    val intent = Intent(this, Tugas4Activity::class.java)
-        //    startActivity(intent)
-        //}
-    }
+        binding.btnTugas4.setOnClickListener {
+            val intent = Intent(this, Tugas4Activity::class.java)
+            startActivity(intent)
 
+        }
+        binding.btnbacktologin.setOnClickListener {
+            val intent = Intent(this, LoginActivity::class.java)
+            startActivity(intent)
+
+        }
+
+    }
 }
