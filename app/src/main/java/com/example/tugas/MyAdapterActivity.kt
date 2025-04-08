@@ -7,7 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-class MyAdapterActivity (private val namaList : ArrayList<ItemdataActivity>): RecyclerView.Adapter<com.example.tugas.MyAdapterActivity.MyViewHolder>() {
+class MyAdapterActivity (private val namaList : ArrayList<ItemdataActivity>): RecyclerView.Adapter<MyAdapterActivity.MyViewHolder>() {
 
     class MyViewHolder(itemData: View) : RecyclerView.ViewHolder(itemData) {
         val gambar: ImageView = itemData.findViewById(R.id.imageview2)
